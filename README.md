@@ -72,9 +72,3 @@ Initial exploration includes checking the current working directory and previewi
   ```
   - Sums the bond amounts for each year, providing a summary of total bond amounts over the years.
   
-- **Output Example:**
-  ```python
-  purchase_date_year
-  2019    17661280000
-  2020     3639601000
-  2021
