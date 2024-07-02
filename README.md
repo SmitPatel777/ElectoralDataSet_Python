@@ -71,4 +71,6 @@ Initial exploration includes checking the current working directory and previewi
   donors_data.groupby(['purchase_date_year'])['bond_amount'].sum()
   ```
   - Sums the bond amounts for each year, providing a summary of total bond amounts over the years.
-  
+
+
+  ![Alt text](SS_Dashboard.png)
